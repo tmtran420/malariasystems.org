@@ -1,2 +1,2 @@
 # malariasystems.org
-website repository
+This is the website repository.
